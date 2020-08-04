@@ -1,0 +1,445 @@
+Gogo's server waiting for connection from client...Server connected to client..Server connected to client..Gogo's server waiting for connection from client...
+Server connected to client..
+Server connected to client..
+Gogo's server waiting for connection from client...
+Server connected to client..
+Server connected to client..
+Gogo's server waiting for connection from client...
+Server connected to client..
+sending client joke..
+Server connected to client..
+sending client proverb..
+Gogo's server waiting for connection from client...
+Server connected to client..
+sending client joke..
+Server connected to client..
+sending client proverb..
+Gogo's server waiting for connection from client...
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Gogo's server waiting for connection from client...
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Gogo's server waiting for connection from client...
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Gogo's server waiting for connection from client...
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Server connected to client..
+sending client response..
+Gogo's server waiting for connection from client...
+Server connected to client..
+sending client response for user2fc38b05-3b1e-4b70-9f3d-e5c9274e7b64
+Server connected to client..
+sending client response for user2fc38b05-3b1e-4b70-9f3d-e5c9274e7b64
+Server connected to client..
+sending client response for user2fc38b05-3b1e-4b70-9f3d-e5c9274e7b64
+Server connected to client..
+sending client response for user2fc38b05-3b1e-4b70-9f3d-e5c9274e7b64
+Server connected to client..
+sending client response for user2fc38b05-3b1e-4b70-9f3d-e5c9274e7b64
+Server connected to client..
+sending client response for user2fc38b05-3b1e-4b70-9f3d-e5c9274e7b64
+Server connected to client..
+sending client response for user2fc38b05-3b1e-4b70-9f3d-e5c9274e7b64
+Server connected to client..
+sending client response for user2fc38b05-3b1e-4b70-9f3d-e5c9274e7b64
+Server connected to client..
+sending client response for user73ec33b7-b2ae-4446-9419-9b699a5b5e8e
+Server connected to client..
+sending client response for user73ec33b7-b2ae-4446-9419-9b699a5b5e8e
+Server connected to client..
+sending client response for user73ec33b7-b2ae-4446-9419-9b699a5b5e8e
+Server connected to client..
+sending client response for user73ec33b7-b2ae-4446-9419-9b699a5b5e8e
+Server connected to client..
+sending client response for user73ec33b7-b2ae-4446-9419-9b699a5b5e8e
+Server connected to client..
+sending client response for user2fc38b05-3b1e-4b70-9f3d-e5c9274e7b64
+Server connected to client..
+sending client response for user2fc38b05-3b1e-4b70-9f3d-e5c9274e7b64
+Server connected to client..
+sending client response for user2fc38b05-3b1e-4b70-9f3d-e5c9274e7b64
+Server connected to client..
+sending client response for user2fc38b05-3b1e-4b70-9f3d-e5c9274e7b64
+Server connected to client..
+sending client response for user2fc38b05-3b1e-4b70-9f3d-e5c9274e7b64
+Gogo's server waiting for connection from client...
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for usermode
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for usermode
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for usermode
+Server connected to client..
+sending client response for usermode
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for usermode
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Server connected to client..
+sending client response for userc73c5cde-0c47-4d4e-916e-77683511828b
+Gogo's server waiting for connection from client...
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+sending client response for userced27c13-bec5-42ab-b06b-fea2f6b68afe
+Gogo's server waiting for connection from client...
+sending client response for usermode
+sending client response for usermode
+sending client response for usermode
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for usermode
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for usermode
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for usermode
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for usermode
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for usermode
+sending client response for usermode
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for usermode
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for user4706bf33-66f0-4380-8024-8b9c84c48e0a
+sending client response for user4706bf33-66f0-4380-8024-8b9c84c48e0a
+sending client response for usermode
+sending client response for user4706bf33-66f0-4380-8024-8b9c84c48e0a
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for user4706bf33-66f0-4380-8024-8b9c84c48e0a
+sending client response for user4706bf33-66f0-4380-8024-8b9c84c48e0a
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for usermode
+sending client response for userfa2ad45b-4572-49b4-8832-a2586e40f818
+sending client response for user4706bf33-66f0-4380-8024-8b9c84c48e0a
+Gogo's server waiting for connection from client...
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for usermode
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for usermode
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for user6b54c0bb-9bd0-4339-a088-07390fbbc183
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+sending client response for useredc8f9c2-ec18-4d81-a136-8a8d1ac48827
+Gogo's server waiting for connection from client...
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for usermode
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for usermode
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for userc9845bfb-5d25-461c-9169-7a5a7aa77431
+sending client response for userc9845bfb-5d25-461c-9169-7a5a7aa77431
+sending client response for userc9845bfb-5d25-461c-9169-7a5a7aa77431
+sending client response for userc9845bfb-5d25-461c-9169-7a5a7aa77431
+sending client response for userc9845bfb-5d25-461c-9169-7a5a7aa77431
+sending client response for userc9845bfb-5d25-461c-9169-7a5a7aa77431
+sending client response for usermode
+sending client response for usermode
+sending client response for userc9845bfb-5d25-461c-9169-7a5a7aa77431
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for usermode
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for useradf7a2e0-8529-4ee6-aa97-217bd3b52418
+sending client response for userc9845bfb-5d25-461c-9169-7a5a7aa77431
+sending client response for userc9845bfb-5d25-461c-9169-7a5a7aa77431
+Gogo's server waiting for connection from client...
+sending client response for userae086421-e489-4d19-9918-ed4477e4b022
+sending client response for userae086421-e489-4d19-9918-ed4477e4b022
+sending client response for user9ad38f9d-e0f2-4333-91a5-0d8640a55635
+sending client response for user9ad38f9d-e0f2-4333-91a5-0d8640a55635
+sending client response for user9ad38f9d-e0f2-4333-91a5-0d8640a55635
+sending client response for usermode
+sending client response for userae086421-e489-4d19-9918-ed4477e4b022
+sending client response for userae086421-e489-4d19-9918-ed4477e4b022
+sending client response for user9ad38f9d-e0f2-4333-91a5-0d8640a55635
+sending client response for user9ad38f9d-e0f2-4333-91a5-0d8640a55635
+sending client response for usermode
+sending client response for user9ad38f9d-e0f2-4333-91a5-0d8640a55635
+sending client response for userae086421-e489-4d19-9918-ed4477e4b022
+Gogo's server waiting for connection from client...
+sending client response for user8ca56cc0-28b2-4a66-a069-55f6cdf21518
+sending client response for user8ca56cc0-28b2-4a66-a069-55f6cdf21518
+sending client response for user8ca56cc0-28b2-4a66-a069-55f6cdf21518
+sending client response for user356dfc57-a27a-48d5-b9d7-b5b6f0677e62
+sending client response for user356dfc57-a27a-48d5-b9d7-b5b6f0677e62
+sending client response for user356dfc57-a27a-48d5-b9d7-b5b6f0677e62
+sending client response for usermode
+sending client response for user8ca56cc0-28b2-4a66-a069-55f6cdf21518
+sending client response for user8ca56cc0-28b2-4a66-a069-55f6cdf21518
+sending client response for user356dfc57-a27a-48d5-b9d7-b5b6f0677e62
+sending client response for user356dfc57-a27a-48d5-b9d7-b5b6f0677e62
+sending client response for usermode
+sending client response for usermode
+sending client response for user8ca56cc0-28b2-4a66-a069-55f6cdf21518
+sending client response for user8ca56cc0-28b2-4a66-a069-55f6cdf21518
+sending client response for user356dfc57-a27a-48d5-b9d7-b5b6f0677e62
+sending client response for user356dfc57-a27a-48d5-b9d7-b5b6f0677e62
